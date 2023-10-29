@@ -1,2 +1,2 @@
-# kasalxona-uz
-kasalxona-uz
+# yangiliklar-uz
+yangiliklar-uz
